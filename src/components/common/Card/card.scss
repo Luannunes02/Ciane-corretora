@@ -1,0 +1,69 @@
+@import "../../../styles/variables.scss";
+
+.cardContainer {
+    width: 400px;
+    min-height: 650px;
+    background-color: $text-color;
+    border-radius: 48px 31px 56px 6px;
+    box-shadow: 0px 1px 105px 0px $text-color;
+    padding: 10px 0;
+    margin-right: 20px;
+    transition: all .5s;
+    margin-bottom: 30px;
+
+    &:hover {
+        background-color: $text-light-olor;
+    }
+
+    a {
+        text-decoration: none;
+        color: #212121;
+    }
+
+    h3 {
+        font-weight: bolder;
+    }
+
+    .imgContainer {
+        overflow: hidden;
+        position: relative;
+        width: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 20px;
+
+        img {
+            max-width: 100%;            
+            -moz-transition: all 0.5s;
+            -webkit-transition: all 0.5s;
+            transition: all 0.5s;
+
+            &:hover {
+                -moz-transform: scale(1.2);
+                -webkit-transform: scale(1.2);
+                transform: scale(1.1);                
+            }
+        }
+    }
+
+    h4 {
+        font-weight: bold;
+    }
+
+    ul {
+        list-style: none;
+        text-align: start;
+        border: 3px solid $text-light-olor;
+        margin: 0px 10px;
+        padding: 15px 10px;
+        border-radius: 25px;
+        background-color: #212121;
+    }
+
+    li {
+        color: $text-color;
+        font-weight: 550;
+        padding: 0 10px;
+    }
+}

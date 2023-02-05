@@ -1,0 +1,11 @@
+@import "../../styles/variables.scss";
+
+footer {
+    background-color: $text-color;
+    height: 6vh;
+
+    p {
+        color: #212121;
+        font-weight: bold;
+    }
+}

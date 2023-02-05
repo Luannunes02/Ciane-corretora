@@ -1,0 +1,307 @@
+@import "../../styles/variables.scss";
+
+#introduction {
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textIntroductionContainer {
+    color: $text-color;
+
+    h1 {
+        font-weight: bold;
+        text-shadow: 1px 3px 2px $textShadow-color;
+    }
+
+    h3 {
+        font-weight: 500;
+    }
+
+    h4 {
+        font-weight: 700;
+    }
+}
+
+.giving-house {
+    width: 850px;
+    border-radius: 30% 70% 41% 59% / 30% 30% 70% 70%;
+    filter: drop-shadow(5px 10px 50px #dbba743d);
+
+    @media screen and (min-width: 1171px) and (max-width: 1427px) {
+        & {
+            width: 700px;
+        }
+    }
+
+    @media screen and (min-width: 993px) and (max-width: 1170px) {
+        & {
+            width: 600px;
+        }
+    }
+
+    @media screen and (min-width: 726px) and (max-width: 989px) {
+        & {
+            width: 700px;
+        }
+    }
+
+    @media screen and (min-width: 489px) and (max-width: 725px) {
+        & {
+            width: 500px;
+        }
+    }
+
+    @media screen and (min-width: 0px) and (max-width: 488px) {
+        & {
+            width: 400px;
+        }
+    }
+
+}
+
+#about {
+    min-height: 90vh;
+    background-color: $text-color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+        color: $background-color;
+        font-weight: bolder;
+        text-shadow: 1px 1px 48px rgba(81, 87, 0, 0.87);
+    }
+
+    .aboutContainer {
+        height: 80%;
+    }
+
+    .cianePhoto {
+        border-radius: 83% 17% 71% 29% / 19% 87% 13% 81%;
+        @media screen and (min-width: 1171px) and (max-width: 1427px) {
+            & {
+                width: 450px;
+            }
+        }
+    
+        @media screen and (min-width: 993px) and (max-width: 1170px) {
+            & {
+                width: 400px;
+            }
+        }
+    
+        @media screen and (min-width: 726px) and (max-width: 989px) {
+            & {
+                width: 500px;
+            }
+        }
+    
+        @media screen and (min-width: 489px) and (max-width: 725px) {
+            & {
+                width: 450px;
+            }
+        }
+    
+        @media screen and (min-width: 409px) and (max-width: 488px) {
+            & {
+                width: 400px;
+            }
+        }
+
+        @media screen and (min-width: 0px) and (max-width: 408px) {
+            & {
+                width: 250px;
+            }
+        }
+    }
+
+    .aboutTextContainer {
+        background-color: #212121;
+        height: 70vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 84% 16% 81% 19% / 11% 85% 15% 89%;
+
+        h3 {
+            font-weight: bold;
+            color: $text-color;
+            padding: 0 40px 0;
+        }
+    }
+}
+
+#services {
+
+    h1 {
+        font-weight: bold;
+        color: $text-color;
+    }
+
+    h3 {
+        color: $text-color;
+        opacity: 0.8;
+        text-transform: uppercase;
+    }
+
+    .servicesDetailsContainer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        img {
+            width: 200px;
+        }
+
+        h5 {
+            font-weight: bold;
+            color: $text-light-olor;
+            text-transform: uppercase;
+        }
+
+        p {
+            color: $text-color;
+            opacity: 0.9;
+        }
+
+        .serviceDiv {
+            min-height: 40vh;
+        }
+    }
+}
+
+#professionalismAndParalaxxContainer {
+    border-bottom: 10px solid $text-color;
+
+    #paralaxx {
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: $text-color;
+        min-height: 4vh;
+
+        div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            h2 {
+                color: $background-color;
+                font-weight: bolder;
+                padding: 12px 50px;
+                border-radius: 44px 30px 58px 10px;
+            }
+        }
+    }
+
+    .professionalism {
+
+        img {
+            width: 500px;
+
+            @media screen and (min-width: 1352px) and (max-width: 1427px) {
+                & {
+                    width: 500px;
+                }
+            }
+        
+            @media screen and (min-width: 993px) and (max-width: 1351px) {
+                & {
+                    width: 400px;
+                }
+            }
+        
+            @media screen and (min-width: 726px) and (max-width: 989px) {
+                & {
+                    width: 500px;
+                }
+            }
+        
+            @media screen and (min-width: 540px) and (max-width: 725px) {
+                & {
+                    width: 500px;
+                }
+            }
+        
+            @media screen and (min-width: 409px) and (max-width: 539px) {
+                & {
+                    width: 400px;
+                }
+            }
+
+            @media screen and (min-width: 312px) and (max-width: 408px) {
+                & {
+                    width: 300px;
+                }
+            }
+
+            @media screen and (min-width: 0px) and (max-width: 311px) {
+                & {
+                    width: 200px;
+                }
+            }
+
+            
+        }
+
+        h1 {
+            color: $text-color;
+            font-weight: bold;
+        }
+
+        h4 {
+            color: $text-light-olor;
+            font-weight: 400;
+        }
+    }
+
+}
+
+#properties {
+    border-bottom: 10px solid $text-color;
+
+    h1 {
+        font-weight: bold;
+        color: $text-color;
+    }
+
+    .propertiesContainer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+#contact {
+    min-height: 50vh;
+    align-items: center;
+    border-bottom: 10px solid $text-color;
+
+    .midiaContainer {        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+
+    h2 {
+        color: $text-color;
+        font-weight: bolder;
+    }
+
+    a {
+        text-decoration: none;
+        color: $text-color;
+    }
+
+    img {
+        width: 60px;
+    }
+
+    p {
+        color: $text-color;
+        width: 250px;
+    }
+}

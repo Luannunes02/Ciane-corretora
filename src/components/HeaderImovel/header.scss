@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Kanit:wght@400;500;700&family=Kdam+Thmor+Pro&family=Noto+Sans:wght@100&family=Poppins:ital,wght@0,100;0,200;0,300;1,400&family=Splash&display=swap');
+@import "../../styles/variables.scss";
+
+* {
+    box-sizing: border-box;
+}
+
+#navbarNav {    
+    font-family: 'Carter One',sans-serif;
+    justify-content: end;
+}
+
+#logoHeaderImovel {
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#returnBtn {
+    display: flex;
+    justify-content: start;
+    width: 40px;
+    align-items: center;
+    padding-top: 35px;
+    margin-right: 80px;
+}
+
+li {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+#navbar-item {
+    margin-left: 40px;
+    color: $text-color;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0), 0 0 0.2em rgb(71, 88, 9), 0 0 0.1em rgb(166, 255, 0);
+    transition: all .3s;
+}
+
