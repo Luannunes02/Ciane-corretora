@@ -94,7 +94,7 @@ export default function Imovel() {
                             <p>@cianymonteiro1corretora</p>
                         </div>
                     </a>
-                    <a target="_blank" href="mailto:cianymonteiro1@creci.org.br?Body=Ol%E1%20Ciane%20Monteiro%2C%20tudo%20bem%3F%0A%0AProcura%20a%20loca%E7%E3o/compra%20de%20um%20im%F3vel.">
+                    <a target="_blank" href="mailto:cianymonteiro1@creci.org.br?subject=Locação/Compra de imóvel&body=Ol%C3%A1%20Ciane%20Monteiro%2C%20tudo%20bem%3F%20%0A%0ADesejo%20alugar%20ou%20comprar%20um%20im%C3%B3vel.">
                         <div className="midiaContainer">
                             <img src={EmailLogo} alt="EmailLogo" />
                             <p>cianymonteiro1@creci.org.br</p>
