@@ -28,7 +28,8 @@
                 "01-sala de jantar",
                 "01-banheiro com bancada em mármore e armário com espelho",
                 "01-sala de TV",
-                "01-Varanda"
+                "01-Varanda",
+                "ALUGUEL POR TEMPORADA"
             ]
         },
         {
@@ -80,6 +81,154 @@
                 "Restaurante",
                 "Varanda",
                 "Ar condicionado"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Aluguel Setor hoteleiro norte",
+            "title": "St Hoteleiro Norte",
+            "observation": [
+                "Loja que fica no hotel garvey.",
+                "Ótima loja com um excelente espaço para trabalhar com seu negócio."
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/216850886-00fac283-3cd5-4425-9f8f-e2cbe74e79cd.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216850883-20f31e32-fc88-42b9-aa96-22ff0bf9ff0c.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850884-93f2e61c-e9ee-4704-94be-0c9c2043368b.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850885-4d7fd18c-da29-4dc9-a40e-aea520db80f9.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850880-d970ac25-672b-4903-9c5d-9eb58cb01d23.jpeg"
+            ],
+            "description": [
+                "01-quarto",
+                "01-Banheiro",
+                "Ótima localização",
+                "Amplo espaço para gerenciar seu négocio"                
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Casa de 2 quartos no Gama",
+            "title": "Casa Gama",
+            "observation": [
+                "Casa com um bom espaço e vizinhança muito tranquila, casa disponivel para alugar.",
+                "Todo o espaço que você e sua família precisam."
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/216850919-8f051727-5b3d-4ef0-bc3a-6b5402c8d675.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216850924-510c3974-224f-42ba-9414-3539557abe45.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850925-b19b3e82-d3d3-452a-a9bc-bb5af7a00502.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850926-fa4c5eff-0a31-4170-a813-9b3b348d263f.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850927-faa07454-9f47-49e4-81ce-3030edec9e8c.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850929-b2c43bfa-5904-4ca3-9e82-2d04d6f290c2.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850930-5f38750e-fd2a-4af9-9556-a595ca1301cf.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850931-7a6e56df-ac65-4e67-aa3c-360aa49bfa09.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850932-29b0e5de-05b3-49f0-83b5-acf5b3e39fde.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850933-893e722d-996e-4094-a4e1-f232edd7e700.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850934-5dc8811c-cb1a-48c4-9f43-9f2fa81abb89.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850935-101e4094-2138-4c23-a034-2cc0180ed4fe.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850936-2f2bff69-08ec-4f90-a33a-9bd4c26550d8.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850937-1de5535f-9bd5-4bfd-8956-8900ddd67aa8.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850938-2174e603-f55b-4e72-9122-6809127367ad.jpeg"
+            ],
+            "description": [
+                "01-quarto",
+                "01-sala",
+                "01-cozinha",
+                "01-pia externa"
+            ]
+        },
+         {
+            "id": 4,
+            "name": "Loja setor Leste Gama",
+            "title": "Loja no Gama",
+            "observation": [
+                "Loja setor hoteleiro norte; com aproximadamente 21m2 e recém Reformada",
+                "Exelente localizaçao, proximo ao Brasilia Shopping , Shopping Conjunto Nacional, poucos minutos da Esplanadas dos Ministerios e de facil acesso."
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/216850957-83067ad2-ca73-4d90-8e0d-d018cc1a962d.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216850964-39b3ecc7-5909-45ff-8f7f-9bf62b8ce8da.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850965-62c4db3e-5a89-4bec-8462-976ab7eb8143.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850968-291ee032-a925-485f-ae47-0a5a9199d215.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850969-4a7e51f9-df1f-4100-838f-e52c0060c079.jpeg"                              
+            ],
+            "description": [
+                "Lugar muito espaçoso",
+                "01-sala",
+                "Possui banheiros",
+                "Possui salas para guardar matériais"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "SETOR LESTE INDUSTRIAL GAMA",
+            "title": "SETOR LESTE INDUSTRIAL GAMA",
+            "observation": [
+                "Apt setor leste-Gama-DF ; com aproximadamente 90m2, 3 quartos , sala , cozinha americana, área de serviço e banheiro."
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/216850995-d2c28819-90a4-419f-81c1-f6ad1371941c.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216851029-efd34c2d-afdc-4148-82c8-a122b0b8c8b8.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216851030-a9d058e1-7979-4f1c-a982-2e388850edfb.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216851031-565b5f05-0f90-425a-8d42-56d87ab431e2.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216851032-53e69688-eab6-4996-af36-3c0e69e6450d.jpeg"              
+            ],
+            "description": [
+                "01-banheiro",
+                "01-quarto",
+                "Sala com ótimo espaço"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Apt Edifício The Union",
+            "title": "The Union",
+            "observation": [
+                "CONDOMINIO THE UNION PLANO PILOTO.",
+                "Uma sala duplex",
+                "comercial com área total de aproximadamente 75m2, com dois (02) banheiros"
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/216851094-c728c849-a16a-497b-a1bb-42716fb075a3.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216851102-5e00b552-a3ea-44d9-b721-8f787db3619e.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851104-d6f97e1c-1285-4f8f-9c9f-5b4144fcc622.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851106-a39453a5-08fa-432f-b67a-09b153b02105.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851108-c9f8f231-52f2-4821-b190-4ab926af8222.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851109-c5694567-06cf-4f54-a6d8-89b6ec57ac9e.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851110-556defb6-1282-4275-a3b4-f516eb1fd8d2.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851111-71c842b0-7d51-4d7a-b3e5-cbd8def0b7c0.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851113-7c095594-1011-4778-bda1-8e9a85d8b24d.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851114-0485c3e0-ee68-420e-b576-4a365565a0db.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851115-0d67e48b-28fa-4475-b783-77edd3ebfc8f.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851117-4f580218-fd84-4354-86fc-9d3020ca0871.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851118-66626d9d-ed92-4349-b607-18e8b4a2dab7.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851119-18c0a4c4-1613-4859-b669-e1178ccce82c.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851121-31d7cf1e-4051-4e89-9b8e-1d41a07f5583.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851123-f271da94-bf7d-4881-8292-bcba3db6ac57.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851125-2941a2e4-e94c-4787-8525-c52c603c0548.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851126-84fa447e-b000-44fa-856e-2925e409739f.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851127-adb8c519-c612-4473-a3fe-6aac37fae53f.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851128-c28a278d-7e24-4e51-b095-69e18a0288e4.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851129-672f4742-35b1-4cbf-9f25-d2ef46847587.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851130-409bed7f-b20a-4186-8112-263e333eafde.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851131-476ab14b-5ad1-44e9-b4d3-02692394823b.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851132-f6c9dbfa-62bd-4bce-bad6-d7ebb8915c5a.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851133-6c8efca1-b444-4133-be63-34547d22d230.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851135-73e90303-f982-4122-812c-8f70e55e631f.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851136-50dd87be-885e-4af8-a2b8-480c271d24d7.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851137-2e8a3ee7-b7e2-4356-b6b4-60737dd90f7c.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851138-3d3fb03e-df6d-4122-977f-30f26de1334c.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851139-a3de806d-4e19-4b0c-8406-b7f2a02fcfb1.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851140-0acee107-acb8-4085-b910-315035f7b3ac.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851141-d8a30f7a-2974-4c40-a73d-b233d23db33e.jpg",
+                "https://user-images.githubusercontent.com/116287208/216851142-1a6b826c-8947-4527-b284-bb66b23eb3f2.jpg"
+            ],
+            "description": [
+                "Comercial duplex",
+                "01-sala",
+                "Condominío do plano piloto",
+                "Lugar lindo",
+                "Ótima localização"
             ]
         }
     ]
