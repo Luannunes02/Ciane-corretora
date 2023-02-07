@@ -11,6 +11,7 @@ import Accommodation from "../../assets/services/aco.png"
 import AdminPublic from "../../assets/services/admin.png"
 import Avaliation from "../../assets/services/ava.png"
 import Profissionalism from "../../assets/profissionalismo.jpg"
+import CredPago from "../../assets/credpago.jpeg"
 import WhatsAppLogo from "../../assets/whatsapp.png"
 import InstagramLogo from "../../assets/instagram.png"
 import EmailLogo from "../../assets/email.png"
@@ -102,6 +103,20 @@ export default function Home() {
                             <div className="col col-lg-7" data-aos="fade-up" data-aos-duration="1500">
                                 <h4 className="fs-5">Com mais de 7 anos de experiência no mercado imobiliário, sou uma corretora comprometida em oferecer aos nossos clientes um atendimento personalizado e eficiente. Sei que a compra ou venda de um imóvel é uma decisão importante na vida de uma pessoa e, por isso, trabalho com dedicação e profissionalismo para tornar esse momento o mais suave e satisfatório possível. Ofereço serviços completos, desde a administração e captação de imóveis, passando pela avaliação e, claro, a venda. Não importa qual seja o seu objetivo imobiliário, estou aqui para ajudá-lo a alcançá-lo.</h4>
                                 <h4 className="fs-5">Venha me conhecer melhor e veja que sou altamente capacitada e descubra por que sou a escolha certa para cuidar de todas as suas necessidades imobiliárias. Eu acredito que a satisfação dos meus clientes é o meu maior sucesso e, por isso, sempre busco ir além das expectativas. Entre em contato comigo e experimente a diferença de trabalhar com uma corretora eficiente.</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="professionalism">
+                    <div className="container mb-5 pb-5">
+                        <h1 className="mt-5 text-center display-4" data-aos="fade-up" data-aos-duration="800">TRABALHO COM A CREDPAGO PARA LOCAÇÕES</h1>
+                        <div className="row mt-5 d-block text-center ">
+                            <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="800">
+                                <h4 className="fs-5">Aluguel sem fiador, rápido e garantido.</h4>
+                                <h4 className="fs-5">Com CredPago todo mundo aluga sem fiador. A imobiliária não exige, o inquilino não depende e o proprietário se garante.</h4>
+                            </div>
+                            <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="1300">
+                                <img src={CredPago} alt="CredPago" />
                             </div>
                         </div>
                     </div>
