@@ -109,7 +109,7 @@ export default function Home() {
                 </div>
                 <div className="professionalism">
                     <div className="container mb-5 pb-5">
-                        <h1 className="mt-5 text-center display-4" data-aos="fade-up" data-aos-duration="800">TRABALHO COM A CREDPAGO PARA LOCAÇÕES</h1>
+                        <h1 className="mt-5 text-center display-4" data-aos="fade-up" data-aos-duration="800">TRABALHO COM A GARANTIA CREDPAGO</h1>
                         <div className="row mt-5 d-block text-center ">
                             <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="800">
                                 <h4 className="fs-5">Aluguel sem fiador, rápido e garantido.</h4>

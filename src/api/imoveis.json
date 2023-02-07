@@ -2,7 +2,7 @@
     "imoveis": [
         {
             "id": 0,
-            "name": "Apt mobiliado, 60 m2, 4º andar de canto",
+            "name": "Apt mobiliado, 60 m2, aluguel por temporada",
             "title": "Life Resort",
             "observation": [
                 "Contrato anual ou no mínimo 06 meses.<br/> Aluguel R$ 5.800,00 (incluso taxa de condomínio, IPTU , água e gás)",
@@ -28,8 +28,7 @@
                 "01-sala de jantar",
                 "01-banheiro com bancada em mármore e armário com espelho",
                 "01-sala de TV",
-                "01-Varanda",
-                "ALUGUEL POR TEMPORADA"
+                "01-Varanda"
             ]
         },
         {
@@ -85,7 +84,7 @@
         },
         {
             "id": 2,
-            "name": "Aluguel Setor hoteleiro norte",
+            "name": "Aluguel Loja Setor hoteleiro norte",
             "title": "St Hoteleiro Norte",
             "observation": [
                 "Loja que fica no hotel garvey.",
@@ -99,7 +98,6 @@
                 "https://user-images.githubusercontent.com/116287208/216850880-d970ac25-672b-4903-9c5d-9eb58cb01d23.jpeg"
             ],
             "description": [
-                "01-quarto",
                 "01-Banheiro",
                 "Ótima localização",
                 "Amplo espaço para gerenciar seu négocio"                
@@ -131,9 +129,9 @@
                 "https://user-images.githubusercontent.com/116287208/216850938-2174e603-f55b-4e72-9122-6809127367ad.jpeg"
             ],
             "description": [
-                "01-quarto",
+                "02-quarto",
                 "01-sala",
-                "01-cozinha",
+                "01-cozinha americana",
                 "01-pia externa"
             ]
         },
@@ -181,12 +179,12 @@
         },
         {
             "id": 6,
-            "name": "Apt Edifício The Union",
+            "name": "Sala comercial duplex",
             "title": "The Union",
             "observation": [
-                "CONDOMINIO THE UNION PLANO PILOTO.",
-                "Uma sala duplex",
-                "comercial com área total de aproximadamente 75m2, com dois (02) banheiros"
+                "Condominío The Union no Plano Piloto, fica ao lado da Leroy Merlin.",
+                "Uma sala comercial duplex.",
+                "Área total de aproximadamente 75m2, com dois (02) banheiros."
             ],
             "cover": "https://user-images.githubusercontent.com/116287208/216851094-c728c849-a16a-497b-a1bb-42716fb075a3.jpg",
             "imgs": [
