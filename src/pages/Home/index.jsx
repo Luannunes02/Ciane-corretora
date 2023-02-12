@@ -109,13 +109,13 @@ export default function Home() {
                 </div>
                 <div className="professionalism">
                     <div className="container mb-5 pb-5">
-                        <h1 className="mt-5 text-center display-4" data-aos="fade-up" data-aos-duration="800">GARANTIA: SEGURO FIANÇA PARCERIA CredPago</h1>
-                        <div className="row mt-5 d-block text-center ">
+                        <h1 className="mt-5 text-center display-4" data-aos="fade-up" data-aos-duration="800">GARANTIA: SEGURO FIANÇA PARCERIA CREDPAGO</h1>
+                        <div className="row mt-4 d-block text-center ">
                             <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="800">
                                 <h4 className="fs-5">Avaliação rápida, segura e on-line que facilita o processo de locação.</h4>
                             </div>
                             <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="1300">
-                                <img src={CredPago} alt="CredPago" />
+                                <img className="mt-3" src={CredPago} alt="CredPago" />
                             </div>
                         </div>
                     </div>
