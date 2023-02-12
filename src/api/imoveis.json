@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Apt mobiliado, 60 m2, aluguel por temporada",
-            "title": "Life Resort",
+            "title": "Condomínio Life Resort",
             "observation": [
                 "Contrato anual ou no mínimo 06 meses. Aluguel R$ 5.800,00 (incluso taxa de condomínio, IPTU , água e gás)",
                 "Internet e energia elétrica não está inclusa."
@@ -21,28 +21,31 @@
                 "https://user-images.githubusercontent.com/116287208/216793338-24e1a50e-2e92-4fcd-b868-d861bf17d75d.jpg"
             ],
             "description": [
-                "01-quarto",
-                "01-espaço para home office",
-                "01-Closet",
-                "01-cozinha com fogão coktop 5 boca",
-                "01-sala de jantar",
-                "01-banheiro com bancada em mármore e armário com espelho",
-                "01-sala de TV",
-                "01-Varanda"
+                "Condomínio com área de lazer completa;",
+                "Localização privilegiada com aproximadamente 3.0k do congresso nacional, praça dos três poderes, Senado Federal, Câmera Federal.",
+                "Apartamento mobiliado, de 60m2, varanda, cozinha completa, armário planejado;",
+                "Portaria 24 horas;",
+                "Academia;",
+                "Piscinas adulto e infantil;",
+                "Bosques Arborizados;",
+                "Restaurante, pizzaria; cafeteria;",
+                "Salão de festa;",
+                "Salão de Beleza."
             ]
         },
         {
             "id": 1,
-            "name": "Apt no Hotel Garvey",
-            "title": "Hotel Garvey",
+            "name": "Hotel Garvey",
+            "title": "HOSPEDAGEM",
             "observation": [
                 "Com Wi-Fi gratuito, o Apart Hotel Garvey - Ciany está localizado em Brasília, a 500 metros do shopping center Conjunto Nacional. O Complexo Cultural da República fica a 1,2 km. Há um estacionamento privativo no local.",
                 "O Apart Hotel Garvey - Ciany também conta com piscina ao ar livre.",
                 "O Estádio Mané Garrincha está a 1,4 km do Apart Hotel Garvey - Ciany, enquanto a Catedral de Brasília fica a 1,6 km. O aeroporto mais próximo é o Aeroporto Internacional de Brasília - Presidente Juscelino Kubitschek, que está a 10 km da propriedade.",
                 "Esta é a parte de Brasília de que os nossos hóspedes mais gostam, de acordo com avaliações independentes. Casais particularmente gostam da localização — eles deram nota 9,4 para viagem a dois."
             ],
-            "cover": "https://user-images.githubusercontent.com/116287208/216793481-822b187a-fad3-498a-bc4b-0e9b0f9a0755.jpg",
+            "cover": "https://user-images.githubusercontent.com/116287208/218314952-228ccf58-8969-46c3-afaf-bbeef54192aa.jpeg",
             "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216793481-822b187a-fad3-498a-bc4b-0e9b0f9a0755.jpg",
                 "https://user-images.githubusercontent.com/116287208/216793484-6fd50854-d041-49ca-be21-a75cf81674b5.jpg",
                 "https://user-images.githubusercontent.com/116287208/216793490-cc6f7e66-22e4-4b4d-bbc5-5327aeae2c30.jpg",
                 "https://user-images.githubusercontent.com/116287208/216793491-0278f88b-4868-45a2-b682-9060c2d48607.jpg",
@@ -72,20 +75,13 @@
                 "https://user-images.githubusercontent.com/116287208/216793556-499c0eb6-b8fc-45e8-80a1-0e04585a03ad.jpg"
             ],
             "description": [
-                "01-Quarto com cama de casal",
-                "Serviço de quarto",
-                "Priscina ao ar livre",
-                "Wi-Fi gratuito",
-                "Estacionamento privado",
-                "Restaurante",
-                "Varanda",
-                "Ar condicionado"
+                "Está localizado no centro de Brasília, a 500 metros do shopping Conjunto nacional e Brasília Shopping, fácil acesso para os principais pontos turísticos e culturais de Brasília, com aproximadamente 2.k da Esplanada do Ministerios , Praça do Três Poderes, Estágio Mané Garrincha, Catedral de Brasília, Torre de TV…"
             ]
         },
         {
             "id": 2,
-            "name": "Aluguel Loja Setor hoteleiro norte",
-            "title": "St Hoteleiro Norte",
+            "name": "Loja Térrea",
+            "title": "Aluguel Comercial St Hoteleiro Norte",
             "observation": [
                 "Loja que fica no hotel garvey.",
                 "Ótima loja com um excelente espaço para trabalhar com seu negócio."
@@ -98,15 +94,18 @@
                 "https://user-images.githubusercontent.com/116287208/216850880-d970ac25-672b-4903-9c5d-9eb58cb01d23.jpeg"
             ],
             "description": [
-                "01-Banheiro",
-                "Ótima localização",
-                "Amplo espaço para gerenciar seu négocio"                
+                "Loja térrea;",
+                 "Com 20m2, 1 banheiro privativo;",
+                 "Condomínio fechado;", 
+                 "Segurança 24 horas;",
+                 "Elevador;", 
+                 "Conta ainda com opção de vaga para estacionamento privativo;"               
             ]
         },
         {
             "id": 3,
-            "name": "Casa de 2 quartos no Gama",
-            "title": "Casa Gama",
+            "name": "Casa Setor Leste Gama-DF",
+            "title": "ALUGUEL RESIDENCIAL",
             "observation": [
                 "Casa com um bom espaço e vizinhança muito tranquila, casa disponivel para alugar.",
                 "Todo o espaço que você e sua família precisam."
@@ -129,16 +128,18 @@
                 "https://user-images.githubusercontent.com/116287208/216850938-2174e603-f55b-4e72-9122-6809127367ad.jpeg"
             ],
             "description": [
-                "02-quarto",
-                "01-sala",
-                "01-cozinha americana",
-                "01-pia externa"
+                "Casa com 2 quartos;",
+                "1 Vaga de garagem;",
+                "1 banheiro;",
+                "Área de serviço;",
+                "Cozinha americana;",
+                "Duas áreas externas;"
             ]
         },
          {
             "id": 4,
-            "name": "Loja setor Leste Gama",
-            "title": "Loja no Gama",
+            "name": "Setor Leste Gama",
+            "title": "ALUGUEL COMERCIAL",
             "observation": [
                 "Loja setor hoteleiro norte; com aproximadamente 21m2 e recém Reformada",
                 "Exelente localizaçao, proximo ao Brasilia Shopping , Shopping Conjunto Nacional, poucos minutos da Esplanadas dos Ministerios e de facil acesso."
@@ -151,16 +152,18 @@
                 "https://user-images.githubusercontent.com/116287208/216850969-4a7e51f9-df1f-4100-838f-e52c0060c079.jpeg"                              
             ],
             "description": [
-                "Lugar muito espaçoso",
-                "01-sala",
-                "Possui banheiros",
-                "Possui salas para guardar matériais"
+                "Loja com aproximadamente 130m2;",
+                "Vazada;",
+                "1 banheiro;",
+                "Copa;",
+                "Espaço para escritório;",
+                "Localização comercial com alto fluxo de pontos comerciais;"
             ]
         },
         {
             "id": 5,
-            "name": "Setor Leste Gama-DF",
-            "title": "Apt no setor Leste Gama-DF",
+            "name": "Setor Leste Industrial Gama",
+            "title": "ALUGUEL COMERCIAL",
             "observation": [
                 "Apt setor leste-Gama-DF ; com aproximadamente 90m2, 3 quartos , sala , cozinha americana, área de serviço e banheiro."
             ],
@@ -172,15 +175,20 @@
                 "https://user-images.githubusercontent.com/116287208/216851032-53e69688-eab6-4996-af36-3c0e69e6450d.jpeg"              
             ],
             "description": [
-                "01-banheiro",
-                "01-quarto",
-                "Sala com ótimo espaço"
+                "Loja com aproximadamente 40m2;",
+                "Localizada no 1º andar;",
+                "Região tradicional do Gama;",
+                "Acesso independente;",
+                "Com dois ambientes, conta com um espaço para copa;",
+                "Um espaço para lavanderia;",
+                "Recepção;",
+                "Sala de atendimento;"
             ]
         },
         {
             "id": 6,
             "name": "Sala comercial duplex",
-            "title": "The Union",
+            "title": "ALUGUEL COMERCIAL",
             "observation": [
                 "Condominío The Union no Plano Piloto, fica ao lado da Leroy Merlin.",
                 "Uma sala comercial duplex.",
@@ -222,11 +230,7 @@
                 "https://user-images.githubusercontent.com/116287208/216851142-1a6b826c-8947-4527-b284-bb66b23eb3f2.jpg"
             ],
             "description": [
-                "Comercial duplex",
-                "01-sala",
-                "Condominío do plano piloto",
-                "Lugar lindo",
-                "Ótima localização"
+                "Condomínio The Union de alto padrão, segurança 24 horas, vaga de garagem privativa, recepção, vista livre,  próximo ao ParkShopping, Leroy Merli, fácil acesso para ônibus e metrô."
             ]
         }
     ]

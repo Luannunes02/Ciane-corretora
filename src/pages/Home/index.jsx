@@ -113,7 +113,7 @@ export default function Home() {
                         <div className="row mt-5 d-block text-center ">
                             <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="800">
                                 <h4 className="fs-5">Aluguel sem fiador, rápido e garantido.</h4>
-                                <h4 className="fs-5">Com CredPago todo mundo aluga sem fiador. A imobiliária não exige, o inquilino não depende e o proprietário se garante.</h4>
+                                <h4 className="fs-5">Avaliação rápida, segura e on-line que facilita o processo de locação.</h4>
                             </div>
                             <div className="col col-lg-12" data-aos="fade-up" data-aos-duration="1300">
                                 <img src={CredPago} alt="CredPago" />
