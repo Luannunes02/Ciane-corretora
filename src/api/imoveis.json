@@ -2,8 +2,8 @@
     "imoveis": [
         {
             "id": 0,
-            "name": "Apt mobiliado, 60 m2, aluguel por temporada",
-            "title": "Condomínio Life Resort",
+            "name": "Condomínio: Life Resort",
+            "title": "aluguel por temporada",
             "observation": [
                 "Contrato anual ou no mínimo 06 meses. Aluguel R$ 5.800,00 (incluso taxa de condomínio, IPTU , água e gás)",
                 "Internet e energia elétrica não está inclusa."
