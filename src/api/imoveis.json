@@ -30,7 +30,8 @@
                 "Bosques Arborizados;",
                 "Restaurante, pizzaria; cafeteria;",
                 "Salão de festa;",
-                "Salão de Beleza."
+                "Salão de Beleza.",
+                "Imóvel com potencial médio mensal de R$6.000,00;"
             ]
         },
         {
@@ -139,7 +140,7 @@
          {
             "id": 4,
             "name": "Setor Leste Gama",
-            "title": "ALUGUEL COMERCIAL",
+            "title": "IMÓVEL MISTO",
             "observation": [
                 "Loja setor hoteleiro norte; com aproximadamente 21m2 e recém Reformada",
                 "Exelente localizaçao, proximo ao Brasilia Shopping , Shopping Conjunto Nacional, poucos minutos da Esplanadas dos Ministerios e de facil acesso."
