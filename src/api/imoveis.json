@@ -237,7 +237,7 @@
         {
             "id": 7,
             "name": "Imóvel residencial dois pavimento",
-            "title": "LOCAÇÃO",
+            "title": "LOCAÇÃO DE IMÓVEL RESIDENCIAL",
             "observation": [
                 "Imóvel residencial dois pavimento, com rendimento médio mensal de R$ 2.530,00"
             ],
@@ -252,7 +252,7 @@
         {
             "id": 8,
             "name": "Imóvel misto",
-            "title": "LOCAÇÃO",
+            "title": "LOCAÇÃO DE IMÓVEL RESIDENCIAL E COMERCIAL",
             "observation": [
                 "4 apartamentos;", 
                 "Uma loja;", 
