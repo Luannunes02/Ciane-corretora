@@ -160,6 +160,13 @@ export default function Home() {
                                     <p>cianymonteiro1@creci.org.br</p>
                                 </div>
                             </a>
+
+                        </div>
+                    </div>
+                    <div className="registrations mt-5 mb-5 ">
+                        <div>
+                            <h3>CRECI/DF: 23.592</h3>
+                            <h3>CNAI: 34.258</h3>
                         </div>
                     </div>
                 </div>

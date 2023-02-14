@@ -304,4 +304,27 @@
         color: $text-color;
         width: 250px;
     }
+
+    .registrations {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;          
+               
+
+        div {
+            text-align: center;
+            padding: 20px;    
+            border-top: 5px solid $text-color;
+            border-bottom: 5px solid $text-color;
+            width: 350px;
+            border-radius: 20px 50px 30px 90px;
+            box-shadow: 5px 2px 4px $text-color;    
+
+            h3 {
+                color: $text-color;
+                font-weight: bold;
+            }
+        }
+    }
 }

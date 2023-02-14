@@ -17,7 +17,7 @@ export default function Imovel() {
     }, [])
 
     const { id } = useParams();
-    const imovel = ImovelApi.imoveis[id];    
+    const imovel = ImovelApi.imoveis[id];
 
     return (
         <div className="mb-5">
@@ -100,6 +100,12 @@ export default function Imovel() {
                             <p>cianymonteiro1@creci.org.br</p>
                         </div>
                     </a>
+                    <div className="registrations mt-5 mb-4 ">
+                        <div>
+                            <h3>CRECI/DF: 23.592</h3>
+                            <h3>CNAI: 34.258</h3>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
