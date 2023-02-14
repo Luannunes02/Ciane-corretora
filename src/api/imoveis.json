@@ -232,6 +232,89 @@
             "description": [
                 "Condomínio The Union de alto padrão, segurança 24 horas, vaga de garagem privativa, recepção, vista livre,  próximo ao ParkShopping, Leroy Merli, fácil acesso para ônibus e metrô."
             ]
+        },
+        {
+            "id": 7,
+            "name": "Imóvel residencial dois pavimento",
+            "title": "LOCAÇÃO",
+            "observation": [
+                "Imóvel residencial dois pavimento, com rendimento médio mensal de R$ 2.530,00"
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/218880191-38f893fd-d102-4c2f-98e0-f0a98753a6ef.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/218880191-38f893fd-d102-4c2f-98e0-f0a98753a6ef.jpeg"
+            ],
+            "description": [
+                ""
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Imóvel misto",
+            "title": "LOCAÇÃO",
+            "observation": [
+                "4 apartamentos;", 
+                "Uma loja;", 
+                "Apt setor leste-Gama-DF;",
+                "Rendimento mensal médio de R$ 14.000,00"
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/218880224-d1194cbc-c6b5-4d6c-8f36-dee76bcd7e6d.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/218880224-d1194cbc-c6b5-4d6c-8f36-dee76bcd7e6d.jpg"
+            ],
+            "description": [
+                ""
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Imóvel residencial",
+            "title": "LOCAÇÃO",
+            "observation": [
+                "Lote de esquina;", 
+                "Aproximadamente 275m2;", 
+                "Dividido em 4 alugueis com acesso independente;",
+                "rendimento médio mensal de R$ 4.080,00;"
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/218880257-b3d27d5c-fe72-4b91-bbaf-4e891412d923.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/218880263-ba1473c9-b2a8-4edc-9756-0e0805ac33ab.jpeg"
+            ],
+            "description": [
+                ""
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Salas comerciais",
+            "title": "LOCAÇÃO",
+            "observation": [
+                "07 salas no primeiro andar do condomínio;", 
+                "com rendimento médio de R$ 5.861,00;"
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/218880322-df92d12c-1cf8-4bd9-81e4-c9806a2c6d4b.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/218880314-ff95a257-d3b5-4947-b8e8-301291e60274.jpeg"
+            ],
+            "description": [
+                ""
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Imóvel misto",
+            "title": "LOCAÇÃO",
+            "observation": [
+                "Dois apartamentos;", 
+                "2 lojas rendimento médio mensal de R$ 7.000,00;"
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/218880439-0c10da08-bace-4c1d-8a36-811396910677.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/218880439-0c10da08-bace-4c1d-8a36-811396910677.jpeg"
+            ],
+            "description": [
+                ""
+            ]
         }
     ]
 }
