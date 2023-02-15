@@ -30,8 +30,7 @@
                 "Bosques Arborizados;",
                 "Restaurante, pizzaria; cafeteria;",
                 "Salão de festa;",
-                "Salão de Beleza.",
-                "Imóvel com potencial médio mensal de R$6.000,00;"
+                "Salão de Beleza."
             ]
         },
         {
@@ -96,73 +95,15 @@
             ],
             "description": [
                 "Loja térrea;",
-                 "Com 20m2, 1 banheiro privativo;",
-                 "Condomínio fechado;", 
-                 "Segurança 24 horas;",
-                 "Elevador;", 
-                 "Conta ainda com opção de vaga para estacionamento privativo;"               
+                "Com 20m2, 1 banheiro privativo;",
+                "Condomínio fechado;",
+                "Segurança 24 horas;",
+                "Elevador;",
+                "Conta ainda com opção de vaga para estacionamento privativo;"
             ]
         },
         {
             "id": 3,
-            "name": "Casa Setor Leste Gama-DF",
-            "title": "ALUGUEL RESIDENCIAL",
-            "observation": [
-                "Casa com um bom espaço e vizinhança muito tranquila, casa disponivel para alugar.",
-                "Todo o espaço que você e sua família precisam."
-            ],
-            "cover": "https://user-images.githubusercontent.com/116287208/216850919-8f051727-5b3d-4ef0-bc3a-6b5402c8d675.jpeg",
-            "imgs": [
-                "https://user-images.githubusercontent.com/116287208/216850924-510c3974-224f-42ba-9414-3539557abe45.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850925-b19b3e82-d3d3-452a-a9bc-bb5af7a00502.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850926-fa4c5eff-0a31-4170-a813-9b3b348d263f.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850927-faa07454-9f47-49e4-81ce-3030edec9e8c.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850929-b2c43bfa-5904-4ca3-9e82-2d04d6f290c2.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850930-5f38750e-fd2a-4af9-9556-a595ca1301cf.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850931-7a6e56df-ac65-4e67-aa3c-360aa49bfa09.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850932-29b0e5de-05b3-49f0-83b5-acf5b3e39fde.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850933-893e722d-996e-4094-a4e1-f232edd7e700.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850934-5dc8811c-cb1a-48c4-9f43-9f2fa81abb89.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850935-101e4094-2138-4c23-a034-2cc0180ed4fe.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850936-2f2bff69-08ec-4f90-a33a-9bd4c26550d8.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850937-1de5535f-9bd5-4bfd-8956-8900ddd67aa8.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850938-2174e603-f55b-4e72-9122-6809127367ad.jpeg"
-            ],
-            "description": [
-                "Casa com 2 quartos;",
-                "1 Vaga de garagem;",
-                "1 banheiro;",
-                "Área de serviço;",
-                "Cozinha americana;",
-                "Duas áreas externas;"
-            ]
-        },
-         {
-            "id": 4,
-            "name": "Setor Leste Gama",
-            "title": "IMÓVEL MISTO",
-            "observation": [
-                "Loja setor hoteleiro norte; com aproximadamente 21m2 e recém Reformada",
-                "Exelente localizaçao, proximo ao Brasilia Shopping , Shopping Conjunto Nacional, poucos minutos da Esplanadas dos Ministerios e de facil acesso."
-            ],
-            "cover": "https://user-images.githubusercontent.com/116287208/216850957-83067ad2-ca73-4d90-8e0d-d018cc1a962d.jpeg",
-            "imgs": [
-                "https://user-images.githubusercontent.com/116287208/216850964-39b3ecc7-5909-45ff-8f7f-9bf62b8ce8da.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850965-62c4db3e-5a89-4bec-8462-976ab7eb8143.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850968-291ee032-a925-485f-ae47-0a5a9199d215.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216850969-4a7e51f9-df1f-4100-838f-e52c0060c079.jpeg"                              
-            ],
-            "description": [
-                "Loja com aproximadamente 130m2;",
-                "Vazada;",
-                "1 banheiro;",
-                "Copa;",
-                "Espaço para escritório;",
-                "Localização comercial com alto fluxo de pontos comerciais;"
-            ]
-        },
-        {
-            "id": 5,
             "name": "Setor Leste Industrial Gama",
             "title": "ALUGUEL COMERCIAL",
             "observation": [
@@ -173,7 +114,7 @@
                 "https://user-images.githubusercontent.com/116287208/216851029-efd34c2d-afdc-4148-82c8-a122b0b8c8b8.jpeg",
                 "https://user-images.githubusercontent.com/116287208/216851030-a9d058e1-7979-4f1c-a982-2e388850edfb.jpeg",
                 "https://user-images.githubusercontent.com/116287208/216851031-565b5f05-0f90-425a-8d42-56d87ab431e2.jpeg",
-                "https://user-images.githubusercontent.com/116287208/216851032-53e69688-eab6-4996-af36-3c0e69e6450d.jpeg"              
+                "https://user-images.githubusercontent.com/116287208/216851032-53e69688-eab6-4996-af36-3c0e69e6450d.jpeg"
             ],
             "description": [
                 "Loja com aproximadamente 40m2;",
@@ -187,7 +128,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": 4,
             "name": "Sala comercial duplex",
             "title": "ALUGUEL COMERCIAL",
             "observation": [
@@ -235,7 +176,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 5,
             "name": "Imóvel residencial dois pavimento",
             "title": "LOCAÇÃO DE IMÓVEL RESIDENCIAL",
             "observation": [
@@ -246,11 +187,11 @@
                 "https://user-images.githubusercontent.com/116287208/218880191-38f893fd-d102-4c2f-98e0-f0a98753a6ef.jpeg"
             ],
             "description": [
-                "Imóvel residencial dois pavimento, com rendimento médio mensal de R$ 2.530,00"
+                "Imóvel residencial dois pavimento"
             ]
         },
         {
-            "id": 8,
+            "id": 6,
             "name": "Imóvel misto",
             "title": "LOCAÇÃO DE IMÓVEL RESIDENCIAL E COMERCIAL",
             "observation": [
@@ -261,14 +202,13 @@
                 "https://user-images.githubusercontent.com/116287208/218880224-d1194cbc-c6b5-4d6c-8f36-dee76bcd7e6d.jpg"
             ],
             "description": [
-                "4 apartamentos;", 
-                "Uma loja;", 
-                "Apt setor leste-Gama-DF;",
-                "Rendimento mensal médio de R$ 14.000,00"
+                "4 apartamentos;",
+                "Uma loja;",
+                "Apt setor leste-Gama-DF;"
             ]
         },
         {
-            "id": 9,
+            "id": 7,
             "name": "Imóvel residencial",
             "title": "LOCAÇÃO",
             "observation": [
@@ -276,17 +216,30 @@
             ],
             "cover": "https://user-images.githubusercontent.com/116287208/218880257-b3d27d5c-fe72-4b91-bbaf-4e891412d923.jpeg",
             "imgs": [
-                "https://user-images.githubusercontent.com/116287208/218880263-ba1473c9-b2a8-4edc-9756-0e0805ac33ab.jpeg"
+                "https://user-images.githubusercontent.com/116287208/218880263-ba1473c9-b2a8-4edc-9756-0e0805ac33ab.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850924-510c3974-224f-42ba-9414-3539557abe45.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850925-b19b3e82-d3d3-452a-a9bc-bb5af7a00502.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850926-fa4c5eff-0a31-4170-a813-9b3b348d263f.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850927-faa07454-9f47-49e4-81ce-3030edec9e8c.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850929-b2c43bfa-5904-4ca3-9e82-2d04d6f290c2.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850930-5f38750e-fd2a-4af9-9556-a595ca1301cf.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850931-7a6e56df-ac65-4e67-aa3c-360aa49bfa09.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850932-29b0e5de-05b3-49f0-83b5-acf5b3e39fde.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850933-893e722d-996e-4094-a4e1-f232edd7e700.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850934-5dc8811c-cb1a-48c4-9f43-9f2fa81abb89.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850935-101e4094-2138-4c23-a034-2cc0180ed4fe.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850936-2f2bff69-08ec-4f90-a33a-9bd4c26550d8.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850937-1de5535f-9bd5-4bfd-8956-8900ddd67aa8.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850938-2174e603-f55b-4e72-9122-6809127367ad.jpeg"
             ],
             "description": [
-                "Lote de esquina;", 
-                "Aproximadamente 275m2;", 
-                "Dividido em 4 alugueis com acesso independente;",
-                "rendimento médio mensal de R$ 4.080,00;"
+                "Lote de esquina;",
+                "Aproximadamente 275m2;",
+                "Dividido em 4 alugueis com acesso independente;"
             ]
         },
         {
-            "id": 10,
+            "id": 8,
             "name": "Salas comerciais",
             "title": "LOCAÇÃO",
             "observation": [
@@ -297,24 +250,68 @@
                 "https://user-images.githubusercontent.com/116287208/218880314-ff95a257-d3b5-4947-b8e8-301291e60274.jpeg"
             ],
             "description": [
-                "07 salas no primeiro andar do condomínio;", 
-                "com rendimento médio de R$ 5.861,00;"
+                "07 salas no primeiro andar do condomínio;"
             ]
         },
         {
-            "id": 11,
+            "id": 9,
             "name": "Imóvel misto",
+            "title": "LOCAÇÃO",
+            "observation": [
+                "Loja setor hoteleiro norte; com aproximadamente 21m2 e recém Reformada",
+                "Exelente localizaçao, proximo ao Brasilia Shopping , Shopping Conjunto Nacional, poucos minutos da Esplanadas dos Ministerios e de facil acesso."
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/218880439-0c10da08-bace-4c1d-8a36-811396910677.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/216850964-39b3ecc7-5909-45ff-8f7f-9bf62b8ce8da.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850965-62c4db3e-5a89-4bec-8462-976ab7eb8143.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850968-291ee032-a925-485f-ae47-0a5a9199d215.jpeg",
+                "https://user-images.githubusercontent.com/116287208/216850969-4a7e51f9-df1f-4100-838f-e52c0060c079.jpeg"
+            ],
+            "description": [
+                "Dois apartamentos;",
+                "Duas lojas térreas;",
+                "Lote vazado com grande potencial de valorização;"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Imóvel comercial",
             "title": "LOCAÇÃO",
             "observation": [
                 ""
             ],
-            "cover": "https://user-images.githubusercontent.com/116287208/218880439-0c10da08-bace-4c1d-8a36-811396910677.jpeg",
+            "cover": "https://user-images.githubusercontent.com/116287208/219200083-b1318c34-be9c-40a9-ab09-c678c345b311.jpg",
             "imgs": [
-                "https://user-images.githubusercontent.com/116287208/218880439-0c10da08-bace-4c1d-8a36-811396910677.jpeg"
+                "https://user-images.githubusercontent.com/116287208/219202558-6895b2d7-c41e-484a-854d-3eb1f0305965.jpg",
+                "https://user-images.githubusercontent.com/116287208/219202606-4b616f95-c3bb-4313-833f-1dc505b08e3c.jpg"
             ],
             "description": [
-                "Dois apartamentos;", 
-                "2 lojas rendimento médio mensal de R$ 7.000,00;"
+                "Loja vazada;",
+                "Espaço de 312m2;",
+                "Divididas em 7 escritórios;",
+                "área comercial;",
+                "próximo ao HRG;"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Imóvel comercial",
+            "title": "LOCAÇÃO",
+            "observation": [
+                ""
+            ],
+            "cover": "https://user-images.githubusercontent.com/116287208/219204268-7c7c13f9-2cea-400f-8c94-5b859edee06c.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/219204248-9fb25ee5-a358-4257-89ec-be5b719af4db.jpg"
+            ],
+            "description": [
+                "Loja com excelente localização;",
+                "Área comercial principal do setor sul;",
+                "Próximo ao HRG ( Hospital Regional do Gama);",
+                "Lote vazado;",
+                "Com espaço de 312m2",
+                "Com área para estacionamento privativa;"
             ]
         }
     ]
