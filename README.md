@@ -37,8 +37,8 @@ Site que vendi para uma corretora de imóveis que tinha o objetivo de divulgar s
 
 ![1](https://user-images.githubusercontent.com/105875989/221062091-6cef1d45-91ae-4ba1-970b-983abfb2a7b1.png)
 <hr>
-![2](https://user-images.githubusercontent.com/105875989/221062098-8c15abe2-8e34-4995-91c0-77161e26d156.png)
 
+![2](https://user-images.githubusercontent.com/105875989/221062098-8c15abe2-8e34-4995-91c0-77161e26d156.png)
 <hr>
 
 ![3](https://user-images.githubusercontent.com/105875989/221062103-4bfcb356-f230-410d-9a1d-b74a3c3f724d.png)
