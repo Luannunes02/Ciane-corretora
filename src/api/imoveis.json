@@ -101,7 +101,7 @@
                 "Condomínio fechado;",
                 "Segurança 24 horas;",
                 "Elevador;",
-                "Conta ainda com opção de vaga para estacionamento privativo;"
+                "Conta ainda com opção de vaga para estacionamento privativo."
             ]
         },
         {
@@ -127,7 +127,7 @@
                 "6 lojas;",
                 "Área tradicional do setor;",
                 "Região tradicional do Gama;",
-                "Lojas destina à várias atividades comerciais, tais como farmácias, restaurantes e escritórios.;"
+                "Lojas destina à várias atividades comerciais, tais como farmácias, restaurantes e escritórios."
             ]
         },
         {
@@ -172,7 +172,11 @@
                 "https://user-images.githubusercontent.com/116287208/216851139-a3de806d-4e19-4b0c-8406-b7f2a02fcfb1.jpg",
                 "https://user-images.githubusercontent.com/116287208/216851140-0acee107-acb8-4085-b910-315035f7b3ac.jpg",
                 "https://user-images.githubusercontent.com/116287208/216851141-d8a30f7a-2974-4c40-a73d-b233d23db33e.jpg",
-                "https://user-images.githubusercontent.com/116287208/216851142-1a6b826c-8947-4527-b284-bb66b23eb3f2.jpg"
+                "https://user-images.githubusercontent.com/116287208/216851142-1a6b826c-8947-4527-b284-bb66b23eb3f2.jpg",
+                "https://user-images.githubusercontent.com/116287208/221247826-5375f28e-4306-43df-be4f-e26c9901f4c0.jpeg",
+                "https://user-images.githubusercontent.com/116287208/221247830-f717beee-2150-4b90-88fc-0c3d31915bd1.jpeg",
+                "https://user-images.githubusercontent.com/116287208/221247831-6d5c2559-5efc-4ca1-9267-daf0163a45df.jpeg",
+                "https://user-images.githubusercontent.com/116287208/221247834-896aeb26-d777-48fd-9bda-0dad8ab63806.jpeg"
             ],
             "description": [
                 "Condomínio The Union de alto padrão, segurança 24 horas, vaga de garagem privativa, recepção, vista livre,  próximo ao ParkShopping, Leroy Merli, fácil acesso para ônibus e metrô."
@@ -180,7 +184,7 @@
         },
         {
             "id": 5,
-            "name": "Imóvel residencial dois pavimento",
+            "name": "Imóvel residencial dois pavimentos",
             "title": "LOCAÇÃO DE IMÓVEL RESIDENCIAL",
             "observation": [
                 ""
@@ -190,7 +194,11 @@
                 "https://user-images.githubusercontent.com/116287208/218880191-38f893fd-d102-4c2f-98e0-f0a98753a6ef.jpeg"
             ],
             "description": [
-                "Imóvel residencial dois pavimento"
+                "Imóvel residencial vazado:",
+                "Térreo com um apartamento com 3 quartos, dois banheiros, vaga de garagem coberta.",
+                "",
+                "Primeiro andar :",
+                "Apt 3 quartos, sendo uma suíte, varanda e vaga de garagem."
             ]
         },
         {
@@ -207,7 +215,7 @@
             "description": [
                 "4 apartamentos;",
                 "Uma loja;",
-                "Apt setor leste-Gama-DF;"
+                "Apt setor leste-Gama-DF."
             ]
         },
         {
@@ -238,12 +246,12 @@
             "description": [
                 "Lote de esquina;",
                 "Aproximadamente 275m2;",
-                "Dividido em 4 alugueis com acesso independente;"
+                "Dividido em 4 alugueis com acesso independente."
             ]
         },
         {
             "id": 8,
-            "name": "Salas comerciais",
+            "name": "Aluguel de salas comerciais",
             "title": "LOCAÇÃO",
             "observation": [
                 ""
@@ -253,7 +261,7 @@
                 "https://user-images.githubusercontent.com/116287208/218880314-ff95a257-d3b5-4947-b8e8-301291e60274.jpeg"
             ],
             "description": [
-                "07 salas no primeiro andar do condomínio;"
+                "Salas comerciais localizada no 1º andar, salas de aproximadamente 30m2."
             ]
         },
         {
@@ -274,7 +282,7 @@
             "description": [
                 "Dois apartamentos;",
                 "Duas lojas térreas;",
-                "Lote vazado com grande potencial de valorização;"
+                "Lote vazado com grande potencial de valorização."
             ]
         },
         {
@@ -294,7 +302,7 @@
                 "Espaço de 312m2;",
                 "Divididas em 7 escritórios;",
                 "área comercial;",
-                "próximo ao HRG;"
+                "próximo ao HRG."
             ]
         },
         {
@@ -313,8 +321,8 @@
                 "Área comercial principal do setor sul;",
                 "Próximo ao HRG ( Hospital Regional do Gama);",
                 "Lote vazado;",
-                "Com espaço de 312m2",
-                "Com área para estacionamento privativa;"
+                "Com espaço de 312m2;",
+                "Com área para estacionamento privativa."
             ]
         }
     ]
