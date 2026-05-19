@@ -9,7 +9,15 @@ import Logo from "../../assets/logo.png"
 const Header = () => {
     return (
         <header>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10963101246"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'AW-10963101246');
+</script>
             <nav className="navbar navbar-expand-lg bg-transparent">
                 <div className="container">
                     <Link className="navbar-brand ms-5" to="/" >
