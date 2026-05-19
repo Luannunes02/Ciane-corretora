@@ -82,19 +82,19 @@ export default function Imovel() {
             <div id="contactImovel" className="text-center container">
                 <div className="col col-lg-6 text-center" data-aos="flip-left" data-aos-duration="1000">
                     <h2 className="mt-5">Entre em contato comigo para mais detalhes</h2>
-                    <a target="_blank" href="https://api.whatsapp.com/send?phone=+55(61) 98261-9378&text=Olá Ciane Monteiro, tudo bem? Desejo alugar ou comprar um imóvel.">
+                    <a target="_blank"  rel="noreferrer" href="https://api.whatsapp.com/send?phone=+55(61) 98261-9378&text=Olá Ciane Monteiro, tudo bem? Desejo alugar ou comprar um imóvel.">
                         <div className="midiaContainer">
                             <img src={WhatsAppLogo} alt="whatsapplogo" />
                             <p>(61) 98261-9378</p>
                         </div>
                     </a>
-                    <a target="_blank" href="https://www.instagram.com/cianymonteiro1corretora/">
+                    <a target="_blank" rel="noreferrer" href="https://www.instagram.com/cianymonteiro1corretora/">
                         <div className="midiaContainer">
                             <img src={InstagramLogo} alt="instagramLogo" />
                             <p>@cianymonteiro1corretora</p>
                         </div>
                     </a>
-                    <a target="_blank" href="mailto:cianymonteiro1@creci.org.br?subject=Locação/Compra de imóvel&body=Ol%C3%A1%20Ciane%20Monteiro%2C%20tudo%20bem%3F%20%0A%0ADesejo%20alugar%20ou%20comprar%20um%20im%C3%B3vel.">
+                    <a target="_blank" rel="noreferrer" href="mailto:cianymonteiro1@creci.org.br?subject=Locação/Compra de imóvel&body=Ol%C3%A1%20Ciane%20Monteiro%2C%20tudo%20bem%3F%20%0A%0ADesejo%20alugar%20ou%20comprar%20um%20im%C3%B3vel.">
                         <div className="midiaContainer">
                             <img src={EmailLogo} alt="EmailLogo" />
                             <p>cianymonteiro1@creci.org.br</p>
